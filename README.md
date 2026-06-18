@@ -1,5 +1,9 @@
 # Fastify-Drizzle-BE
 
+## Intro
+
+This repo is template for Node.js (Drizzle, Postgress) project at Softonix and also this repo includes full stack crash course documentation: [FullStack Course](./FullStackCourse.md)
+
 ## Prerequisites
 
 - Node.js >= 22.14.0
